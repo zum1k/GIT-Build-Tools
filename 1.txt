@@ -1,4 +1,7 @@
 hello task 
 hello git_1
+<<<<<<< HEAD
 modify another
 two lines
+=======
+>>>>>>> 06f82db... task 2 git 1 - 1.txt 7
